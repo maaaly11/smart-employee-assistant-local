@@ -1,0 +1,1 @@
+# smart-employee-assistant-local
